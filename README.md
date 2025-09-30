@@ -50,9 +50,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 
 <img width="861" height="626" alt="image" src="https://github.com/user-attachments/assets/e2e3972b-a37b-4f29-b7c1-fde52624b1a3" />
 
-
-![image](https://github.com/user-attachments/assets/12a4c141-c3f6-4efd-a66f-a89c70848bcd)
-
+<img width="856" height="626" alt="image" src="https://github.com/user-attachments/assets/4553c782-0d7f-4ff8-928a-fd9894690763" />
 
 
 ## Output
