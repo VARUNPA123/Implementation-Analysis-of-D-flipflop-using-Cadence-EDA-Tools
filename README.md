@@ -56,8 +56,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Output
 
 ### 1. Transient Analysis Output
-![Screenshot 2025-03-08 112821](https://github.com/user-attachments/assets/4ff6da47-7de7-480d-a90e-ebb0b66e2053)
-
+<img width="1621" height="858" alt="image" src="https://github.com/user-attachments/assets/0da336c3-3026-405d-af69-0c3c365ed8be" />
 
 ## Results
 1. Successfully designed the D flip-flop schematic using Cadence EDA tools.
